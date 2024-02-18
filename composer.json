@@ -1,13 +1,13 @@
 {
-    "name": "yangqi/htmldom",
+    "name": "dizatech/htmldom",
     "type": "library",
-    "description": "Simple Html Dom Parser for Laravel 4",
+    "description": "Simple Html Dom Parser for Laravel 4 - Upgarded for higher versions",
     "keywords": ["laravel", "html parser"],
     "license": "MIT",
     "authors": [
         {
-            "name": "yangqi",
-            "email": "i@yangqi.me"
+            "name": "Dizatech",
+            "email": "omidrezav@gmail.com"
         }
     ],
     "require": {
